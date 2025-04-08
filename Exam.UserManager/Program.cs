@@ -1,4 +1,4 @@
-using Exam.UserManager.DependencyInjection;
+ using Exam.UserManager.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
